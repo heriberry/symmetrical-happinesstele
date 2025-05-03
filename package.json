@@ -1,0 +1,12 @@
+{
+  "name": "symmetrical-happinesstele",
+  "version": "1.0.0",
+  "description": "Telegram Bot Webhook System",
+  "main": "server.py",
+  "scripts": {
+    "start:webhook": "python3 server.py"
+  },
+  "author": "heriberry <Privat.Leo@outlook.com>",
+  "license": "ISC",
+  "dependencies": {}
+}
